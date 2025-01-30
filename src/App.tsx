@@ -1,4 +1,3 @@
-import React from 'react'
 import { createBrowserRouter, RouterProvider, Outlet, NavLink } from 'react-router-dom'
 import './App.css'
 import Accueil from './pages/Acceuil'
